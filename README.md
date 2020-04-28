@@ -1,1 +1,1 @@
-# -TRN-Image-recognition-tutorials
+# TRN-Image-recognition-tutorials
